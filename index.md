@@ -44,4 +44,6 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 -[征友(面向女生)](https://www.zhihu.com/question/458030227/answer/2248537830)
 
+-[同性恋该如何自处](https://liyang20021203.github.io/Some_thought)
+
 #### For playing
