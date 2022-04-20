@@ -4,9 +4,14 @@
 
 ## About me
 #### Basic information
-A very ordinary girl, born on December 3, 2002. Located in Gansu, China. Currently studying in the School of Physics and Astronomy at Sun Yat-sen University in Guangdong. 
+A very ordinary girl, born on December 3, 2002. Located in Gansu, China.
+
+Currently studying in the School of Physics and Astronomy at Sun Yat-sen University in Guangdong. 
+
 #### Contact information
+
 Email  : liyyang92642434@gmail.com
+
 Wechat : yl1248230118
 #### Hobbies and Interests
 Photography; playing the harmonica; running; cycling; playing basketball...
