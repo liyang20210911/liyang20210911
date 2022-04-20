@@ -26,7 +26,8 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Chapter_1)
 - [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Chapter_2)
-- 
+
+
 #### The Brief History of Mankind
 
 ## Writing
