@@ -20,15 +20,20 @@ Wechat : yl1248230118
 
 Photography; playing the harmonica; running; cycling; playing basketball...
 
-## Reading
+## After Reading
 
 #### Conversations with God
+
 - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Chapter_1)
 - [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Chapter_2)
 - 
 #### The Brief History of Mankind
 
 ## Writing
+
+#### English Homework
+
+#### Informal
 
 -[大学物理实验收获](https://www.zhihu.com/question/496432266/answer/2274212841)
 
@@ -38,4 +43,4 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 -[征友(面向女生)](https://www.zhihu.com/question/458030227/answer/2248537830)
 
-##
+#### For playing
