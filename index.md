@@ -2,6 +2,8 @@
 
 >The main purpose of creating this network is to collect my daily thoughts and to practice my writing skills. Because it's cool for me to have my own page, even if it's simple and even looks crude.
 
+---
+
 ## About me
 
 #### Basic information
@@ -19,6 +21,8 @@ Wechat : yl1248230118
 #### Hobbies and Interests
 
 Photography; playing the harmonica; running; cycling; playing basketball...
+
+---
 
 ## After Reading
 
@@ -49,5 +53,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 -[征友(面向女生)](https://www.zhihu.com/question/458030227/answer/2248537830)
 
 -[女同性恋该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
+
+-[记录心得]
 
 #### For playing
