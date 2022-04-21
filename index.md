@@ -52,10 +52,9 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 -[凉冰的“学术精神”](https://zhuanlan.zhihu.com/p/388647830)
 
--[征友(面向女生)](https://www.zhihu.com/question/458030227/answer/2248537830)
+-[一位♀通讯录的自述](https://www.zhihu.com/question/458030227/answer/2248537830)
 
--[女同性恋该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
+-[拉拉该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
 
--[记录心得]
-
+-[不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
 #### For playing
