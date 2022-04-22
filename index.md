@@ -15,8 +15,8 @@ Currently studying in the School of Physics and Astronomy at Sun Yat-sen Univers
 
 ### Contact information
 
-Email  : liyyang92642434@gmail.com
-Wechat : yl1248230118
+- Email  : liyyang92642434@gmail.com
+- Wechat : yl1248230118
 
 ### Hobbies and Interests
 
