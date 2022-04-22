@@ -47,17 +47,17 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 ### Informal
 
--[大学物理实验收获](https://www.zhihu.com/question/496432266/answer/2274212841)
+- [大学物理实验收获](https://www.zhihu.com/question/496432266/answer/2274212841)
 
--[00后的职业观](https://www.zhihu.com/question/449054782/answer/2382035547)
+- [00后的职业观](https://www.zhihu.com/question/449054782/answer/2382035547)
 
--[凉冰的“学术精神”](https://zhuanlan.zhihu.com/p/388647830)
+- [凉冰的“学术精神”](https://zhuanlan.zhihu.com/p/388647830)
 
--[一位♀通讯录的自述](https://www.zhihu.com/question/458030227/answer/2248537830)
+- [一位♀通讯录的自述](https://www.zhihu.com/question/458030227/answer/2248537830)
 
--[拉拉该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
+- [拉拉该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
 
--[不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
+- [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
 
 ### Music
 - [十孔口琴音阶介绍](https://liyang20021203.github.io/Music/十孔口琴音阶介绍)
@@ -65,7 +65,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 ### Plans for future
 
-[基本打算](https://liyang20021203.github.io/Future/Plans)
+- [基本打算](https://liyang20021203.github.io/Future/Plans)
 
-[短期计划](https://liyang20021203.github.io/Future/短期计划)
+- [短期计划](https://liyang20021203.github.io/Future/短期计划)
 
