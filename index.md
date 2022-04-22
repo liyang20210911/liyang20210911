@@ -59,6 +59,13 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 -[不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
 
-#### Music
+### Music
 
 [简谱汇总](https://liyang20021203.github.io/Music/简谱汇总)
+
+### Plans for future
+
+[基本打算](https://liyang20021203.github.io/Future/Plans)
+
+[短期计划](https://liyang20021203.github.io/Future/短期计划)
+
