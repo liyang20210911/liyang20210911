@@ -54,7 +54,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 - [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
 
 ### Music
-- [十孔口琴音阶介绍](https://liyang20021203.github.io/Music/十孔口琴音阶介绍)
+- [十孔口琴音阶介绍](https://liyang20021203.github.io/Music/十孔口琴音阶介绍.gif)
 - [简谱汇总](https://liyang20021203.github.io/Music/简谱汇总)
 
 ### Plans for future
