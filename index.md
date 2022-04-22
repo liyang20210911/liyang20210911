@@ -58,4 +58,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 -[拉拉该如何自处](https://liyang20021203.github.io/Some_thought/同性恋该如何自处)
 
 -[不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
-#### For playing
+
+#### Music
+
+[简谱汇总](https://liyang20021203.github.io/Music/简谱汇总)
