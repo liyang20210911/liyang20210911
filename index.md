@@ -51,7 +51,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 - [大学物理实验收获](https://www.zhihu.com/question/496432266/answer/2274212841)
 - [00后的职业观](https://www.zhihu.com/question/449054782/answer/2382035547)
 - [凉冰的“学术精神”](https://zhuanlan.zhihu.com/p/388647830)
-- [Some_thought]((https://liyang20021203.github.io/Some_thought/Some_thought)
+- [Some_thought](https://liyang20021203.github.io/Some_thought/Some_thought)
 
 
 ### Music
