@@ -5,12 +5,6 @@
 
 ---
 
-### 关于les
-- [一位♀通讯录的自述](https://www.zhihu.com/question/458030227/answer/2248537830)
-- [拉拉该如何自处](https://liyang20021203.github.io/Some_thought/les_get_along_with_2022)
-
----
-
 ### 关于生活
 - [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
 - [鹤子的茶道之旅](https://liyang20021203.github.io/Some_thought/鹤子的茶道之旅)
