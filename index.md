@@ -60,8 +60,8 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 ### Plans for future
 
-- [基本打算](https://liyang20021203.github.io/Future/Plans)
-- [短期计划](https://liyang20021203.github.io/Future/短期计划)
+- [基本打算](https://liyang20021203.github.io/Plans/Plans)
+
 
 >Photography
 
