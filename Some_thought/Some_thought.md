@@ -16,6 +16,7 @@
 
 - [冷漠的旁观者](https://liyang20021203.github.io/Some_thought/冷漠的旁观者)
 - [努力-失败；无为-快乐](https://liyang20021203.github.io/Some_thought/努力-失败；无为-快乐)
+- [自律是一种天性](https://liyang20021203.github.io/Some_thought/Change)
 
 ### 关于念想
 
