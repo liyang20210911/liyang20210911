@@ -52,4 +52,4 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 ### Plans for future
 
 - [基本打算](https://liyang20021203.github.io/Plans/Plans)
-- [2022](https://liyang20021203.github.io/2022)
+- [2022](https://liyang20021203.github.io/Plans/2022)
