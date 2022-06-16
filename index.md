@@ -28,15 +28,7 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 ### Conversations with God
 - Volume 1
-  - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_1)   ;   [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_2)   ;   [Chapter 3](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_3)   ;   [Chapter 4](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_4)
-  - [Chapter 5](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_5)   ;   [Chapter 6](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_6)   ;    [Chapter 7](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_7)   ;   [Chapter 8](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_8)
-  - [Chapter 9](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_9)   ;   [Chapter 10](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_10)
-- Volume 2
-  - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_1)   ;   [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_2)   ;   [Chapter 3](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_3)   ;    [Chapter 4](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_4)
-  - [Chapter 5](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_5)   ;   [Chapter 6](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_6)   ;   [Chapter 7](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_7)   ;   [Chapter 8](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_8)
-  - [Chapter 9](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_9)   ;    [Chapter 10](https://liyang20021203.github.io/Conversations%20with%20God/Volume_2/Chapter_10)
-
-### The Brief History of Mankind
+  - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_1)   ;   [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_2)  
 
 ---
 
@@ -61,12 +53,3 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 ### Plans for future
 
 - [基本打算](https://liyang20021203.github.io/Plans/Plans)
-
-
->Photography
-
-### Landscape
-- [Temple(普陀寺)](https://liyang20021203.github.io/Photography/lanspaces/Temple)
-- [Lighthouse(海滨泳场灯塔)](https://liyang20021203.github.io/Photography/lanspaces/Lighthouse)
-- [Mountain]
-- 
