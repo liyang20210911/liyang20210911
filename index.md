@@ -26,9 +26,8 @@ Photography; playing the harmonica; running; cycling; playing basketball...
 
 >After Reading
 
-### Conversations with God
-- Volume 1
-  - [Chapter 1](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_1)   ;   [Chapter 2](https://liyang20021203.github.io/Conversations%20with%20God/Volume_1/Chapter_2)  
+
+  - [Conversations with God](https://liyang20021203.github.io/Reading/Conversations%20with%20God) 
 
 ---
 
