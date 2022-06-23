@@ -54,6 +54,10 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 
 - [程迦](https://liyang20021203.github.io/Some_thought/程迦)
 
+### 面对苦难
+
+-[当不幸来临之时](https://liyang20021203.github.io/Some_thought/unfortunate)
+
 
 ### Music
 - [十孔口琴音阶介绍](https://liyang20021203.github.io/Music/十孔口琴音阶介绍.gif)
