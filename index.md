@@ -39,6 +39,7 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 - [如果抛开摄影](https://liyang20021203.github.io/Some_thought/如果抛开摄影)
 - [Learned from Crush](https://liyang20021203.github.io/Crush/learned)
 - [Sign](https://liyang20021203.github.io/Crush/Sign)
+
 ---
 
 ### 关于生活
