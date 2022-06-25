@@ -29,6 +29,7 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 
   - [Conversations with God](https://liyang20021203.github.io/Reading/Conversations%20with%20God) 
   - [看见](https://liyang20021203.github.io/Reading/看见)
+  - [橘子不是唯一的水果](https://liyang20021203.github.io/Reading/tangerine)
 
 ---
 
@@ -56,7 +57,7 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 
 ### 面对苦难
 
--[当不幸来临之时](https://liyang20021203.github.io/Some_thought/unfortunate)
+- [当不幸来临之时](https://liyang20021203.github.io/Some_thought/unfortunate)
 
 
 ### Music
