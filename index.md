@@ -44,15 +44,18 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 
 ### 关于生活
 - [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
-- [鹤子的茶道之旅](https://liyang20021203.github.io/Some_thought/鹤子的茶道之旅)
+- [鹤子的茶道之旅](https://liyang20021203.github.io/collection/鹤子的茶道之旅)
 
 ---
 
 ### 关于成长
 
 - [冷漠的旁观者](https://liyang20021203.github.io/Some_thought/冷漠的旁观者)
-- [努力-失败；无为-快乐](https://liyang20021203.github.io/Some_thought/努力-失败；无为-快乐)
+- [努力-失败；无为-快乐](https://liyang20021203.github.io/collection/努力-失败；无为-快乐)
 - [自律是一种天性](https://liyang20021203.github.io/Some_thought/Change)
+- [女性](https://liyang20021203.github.io/collection/women)
+- [怀疑主义](https://liyang20021203.github.io/collection/怀疑主义) 
+- [正确的道路](https://liyang20021203.github.io/collection/正确的道路)
 
 ### 关于念想
 
