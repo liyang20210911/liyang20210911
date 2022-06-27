@@ -57,6 +57,14 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 - [怀疑主义](https://liyang20021203.github.io/collection/怀疑主义) 
 - [正确的道路](https://liyang20021203.github.io/collection/正确的道路)
 
+---
+
+### 直面错误
+
+- [我不应该录取你](https://iyang20021203.github.io/collection/我不应该录取你)
+
+---
+
 ### 关于念想
 
 - [程迦](https://liyang20021203.github.io/Some_thought/程迦)
