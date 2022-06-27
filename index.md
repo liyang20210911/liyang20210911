@@ -61,7 +61,7 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 
 ### 直面错误
 
-- [我不应该录取你](https://iyang20021203.github.io/collection/我不应该录取你)
+- [我不应该录取你](https://liyang20021203.github.io/collection/我不应该录取你)
 
 ---
 
