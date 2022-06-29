@@ -35,44 +35,34 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 ---
 
 ### 碎碎念
-- [2021-2022年的碎碎念](https://liyang20021203.github.io/Some_thought/碎碎念)
+- [2021-2022年](https://liyang20021203.github.io/Some_thought/碎碎念)
 - [如果抛开摄影](https://liyang20021203.github.io/Some_thought/如果抛开摄影)
 - [Learned from Crush](https://liyang20021203.github.io/Crush/learned)
 - [Sign](https://liyang20021203.github.io/Crush/Sign)
-
----
-
-### 关于生活
-- [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
-- [鹤子的茶道之旅](https://liyang20021203.github.io/collection/鹤子的茶道之旅)
-
----
-
-### 关于成长
-
-- [冷漠的旁观者](https://liyang20021203.github.io/Some_thought/冷漠的旁观者)
-- [努力-失败；无为-快乐](https://liyang20021203.github.io/collection/努力-失败；无为-快乐)
-- [自律是一种天性](https://liyang20021203.github.io/Some_thought/Change)
-- [女性](https://liyang20021203.github.io/collection/women)
-- [怀疑主义](https://liyang20021203.github.io/collection/怀疑主义) 
-- [正确的道路](https://liyang20021203.github.io/collection/正确的道路)
-
----
-
-### 直面错误
-
-- [我不应该录取你](https://liyang20021203.github.io/collection/我不应该录取你)
-
----
-
-### 关于念想
-
 - [程迦](https://liyang20021203.github.io/Some_thought/程迦)
 
-### 面对苦难
+---
 
+### Collection
+- [鹤子的茶道之旅](https://liyang20021203.github.io/collection/鹤子的茶道之旅)
+- [努力-失败；无为-快乐](https://liyang20021203.github.io/collection/努力-失败；无为-快乐)
+- [女性](https://liyang20021203.github.io/collection/women)
+- [土猪拱白菜](https://liyang20021203.github.io/collection/土猪拱白菜) 
+- [怀疑主义](https://liyang20021203.github.io/collection/怀疑主义) 
+- [正确的道路](https://liyang20021203.github.io/collection/正确的道路)
+- [我不应该录取你](https://liyang20021203.github.io/collection/我不应该录取你)
+
+
+---
+
+### Some thought
+
+- [冷漠的旁观者](https://liyang20021203.github.io/Some_thought/冷漠的旁观者)
+- [不应该看轻艺术](https://liyang20021203.github.io/Some_thought/对艺术的看法)
+- [自律是一种天性](https://liyang20021203.github.io/Some_thought/Change)
 - [当不幸来临之时](https://liyang20021203.github.io/Some_thought/unfortunate)
 
+---
 
 ### Music
 - [十孔口琴音阶介绍](https://liyang20021203.github.io/Music/十孔口琴音阶介绍.gif)
