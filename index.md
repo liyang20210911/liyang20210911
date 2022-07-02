@@ -25,12 +25,11 @@ Photography; playing the harmonica; running; cycling; playing basketball..
 ---
 
 ### After Reading
-
-
   - [Conversations with God](https://liyang20021203.github.io/Reading/Conversations%20with%20God) 
   - [看见](https://liyang20021203.github.io/Reading/看见)
   - [橘子不是唯一的水果](https://liyang20021203.github.io/Reading/tangerine)
   - [送你一颗子弹](https://liyang20021203.github.io/Reading/送你一颗子弹/目录)
+  - [未来简史](https://liyang20021203.github.io/Reading/未来简史/contents)
 
 ---
 
